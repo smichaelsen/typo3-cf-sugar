@@ -1,0 +1,8 @@
+{
+	"name": "smichaelsen/typo3-cf-sugar",
+	"autoload": {
+		"psr-4": {
+			"Smichaelsen\\CfSugar\\": "Classes/"
+		}
+	}
+}
